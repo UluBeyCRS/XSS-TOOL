@@ -1,5 +1,7 @@
 git clone https://github.com/UluBeyCRS/XSS-TOOL.git
 
+cd XSS-TOOL
+
 # Kali Linux
 sudo apt update
 
