@@ -20,8 +20,6 @@ pkg install python -y
 
 pkg install python-pip -y
 
-pkg install nano -y
-
 pip install requests
 
 chmod +x xss_tool.py
