@@ -9,8 +9,6 @@ sudo apt install python3 python3-pip -y
 
 pip3 install requests
 
-nano xss_tool.py
-
 chmod +x xss_tool.py
 
 python3 xss_tool.py
@@ -25,8 +23,6 @@ pkg install python-pip -y
 pkg install nano -y
 
 pip install requests
-
-nano xss_tool.py
 
 chmod +x xss_tool.py
 
